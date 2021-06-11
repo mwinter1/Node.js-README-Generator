@@ -1,0 +1,23 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwinter1/hw9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwinter1/hw9/issues"
+  },
+  "homepage": "https://github.com/mwinter1/hw9#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
